@@ -1,0 +1,13 @@
+gradio>=4.19.2
+requests==2.31.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.108.0
+python-dotenv>=1.0.0
+fastapi==0.109.2
+uvicorn==0.27.1
+google-generativeai>=0.3.2
+google-auth>=2.22.0
+beautifulsoup4>=4.12.0
+PyAudio>=0.2.13; platform_system=="Windows"
+pydub>=0.25.1 
