@@ -44,10 +44,9 @@ Before installing, make sure you have:
    ```
    python setup.py
    ```
-5. To create a desktop shortcut:
-   - Double-click `create_shortcut.bat`
-   - A "Gmail MCP" shortcut will be created on your desktop
-   - You can now launch the application by double-clicking the shortcut
+5. To run a shortcut:
+   - run this `app.py` after 'run.bat' or 'run.sh'
+   - A "Gmail AI" shortcut will be created on your desktop
 
 ### macOS/Linux
 
